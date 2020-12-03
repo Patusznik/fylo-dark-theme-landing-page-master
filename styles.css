@@ -136,6 +136,16 @@ body {
     max-width: 550px;
 }
 
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 1em;
+}
+
+.footer div {
+    max-width: 200px;
+}
+
 /* 
 .quote-content h6 {
     font-size: 6px;
